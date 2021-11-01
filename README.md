@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anushkachathumal
-- 👀 I’m interested in learning Windows development
+- 👀 I’m interested in QA Engineering
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on Open-Source development
 - 📫 How to reach me @Facebook - Chathumal Rajapaksha
