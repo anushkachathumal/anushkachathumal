@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anushkachathumal
 - 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently Using Selenium & TestNG
 - 💞️ I’m looking to collaborate on Open-Source development
 - 📫 How to reach me @Facebook - Chathumal Rajapaksha
 
